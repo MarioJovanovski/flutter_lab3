@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592754210887",
+    "project_id": "flutter-lab3-8a270",
+    "storage_bucket": "flutter-lab3-8a270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592754210887:android:b43622e73c77345d875962",
+        "android_client_info": {
+          "package_name": "com.example.flutter_lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8xogvEPispkDO3VyDPIlX8ZBDdpiUIi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
